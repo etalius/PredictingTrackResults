@@ -1,0 +1,366 @@
+,ID,Name,School_ID,School,Division,Fr_PR,So_PR,Jr_PR,Sr_PR,Grad_Yr
+0,8984956,Nicole Carroll,21367,South Florida,American,3.52,3.85,3.7,3.5,2021
+1,10788560,Carolyn Nye,20966,Illinois,Big 10,3.2,3.72,3.9,3.9,2021
+2,9131180,Sydney King,21232,Oklahoma,Big 12,3.7,3.65,4.14,3.96,2021
+3,11833548,Bianca Becker,21485,UC Davis,Big West,3.77,3.7,3.75,3.89,2021
+4,11102474,Sydney Jaques,20694,Cal Poly SLO,Big West,3.65,3.65,3.89,3.85,2021
+5,12911188,Julia Wang,21489,UC Santa Barbara,Big West,3.35,3.35,3.45,3.51,2021
+6,10893721,Julianne Finch,20788,CS Bakersfield,Independent,3.8,3.9,3.8,3.83,2020
+7,10889709,Shannon Fritz,21180,New Mexico,Mountain West (MWC),3.62,3.44,3.64,3.75,2021
+8,11237400,Erika Malaspina,21424,Stanford,PAC-12,3.95,4.22,4.03,3.92,2021
+9,10880465,Kaylee Bizzell,21425,Stephen F. Austin,Southland (SLC),3.91,3.85,4.26,4.0,2021
+10,10855930,Brianna Robinson,21267,Prairie View A&amp;M,Southwestern (SWAC),2.91,3.4,3.5,3.55,2021
+11,8990051,Sabrina Anderson,21176,New Hampshire,America East,3.4,3.35,3.4,3.15,2019
+12,8992622,Morgan Zacharias,21051,Louisville,American,3.99,4.13,3.75,4.2,2019
+13,9124170,Brooke Catherine,20738,Cincinnati,American,4.0,4.03,3.93,4.06,2019
+15,9124178,Sadie Brass,20738,Cincinnati,American,3.5,3.75,1.12,3.92,2019
+16,9147890,Nati Sheppard,20831,Duke,Atlantic Coast (ACC),3.9,4.03,4.05,4.23,2019
+17,9127186,Tesia Kempski,21517,Wake Forest,Atlantic Coast (ACC),3.76,3.93,4.0,4.07,2019
+19,9644658,Meagan Gray,21232,Oklahoma,Big 12,4.06,4.21,4.04,4.35,2019
+21,9131176,Mackenzie Shell,21232,Oklahoma,Big 12,4.3,4.1,3.74,3.92,2019
+22,9142584,Maddie Gardner,21540,West Virginia,Big East,3.91,4.13,4.3,4.3,2019
+23,8987670,Elizabeth Prouty,20848,Eastern Washington,Big Sky,3.7,3.9,3.9,4.05,2019
+24,9146905,Isabella Calabrese,21142,Montana State,Big Sky,3.25,3.51,3.75,3.63,2019
+25,9125922,Cassidy Peng,21489,UC Santa Barbara,Big West,3.76,3.8,3.7,3.9,2019
+26,9359512,Anastasia Kubicki,21485,UC Davis,Big West,3.76,3.92,3.85,3.9,2019
+27,8121053,Kennedy Krueger,21044,Long Beach State,Big West,3.57,3.76,3.92,3.9,2019
+29,10893736,Shelby Noble,20790,CS Fullerton,Big West,3.65,3.7,3.85,3.5,2020
+31,9359037,Adrienne Lee,21486,UC Irvine,Big West,3.37,3.36,3.6,3.65,2019
+33,8995502,Rebekah Markel,21481,Tulane,C-USA,3.8,4.04,4.11,4.21,2019
+34,8995503,Rose Brutkiewicz,21481,Tulane,C-USA,3.32,3.65,3.68,3.55,2019
+35,9098689,Ashley Bailey,20812,Delaware,Colonial (CAA),3.7,3.85,3.85,4.1,2019
+36,8987852,Kyley Foster,21197,North Dakota,Great West,3.82,4.06,4.2,4.2,2019
+37,10876299,Mikayla Johnson,21197,North Dakota,Great West,3.61,3.5,3.75,3.35,2020
+38,8987846,Jadyn Nelson,21197,North Dakota,Great West,3.05,3.61,3.45,3.46,2019
+39,8988647,Nicole Macco,21254,Penn,Heps,3.6,4.02,4.01,3.75,2019
+40,8989594,Caitlyn Trebella,21602,Youngstown State,Horizon,3.57,3.58,3.35,3.6,2019
+41,9103841,Maria Heckman,21594,Wright State,Horizon,3.57,3.85,3.4,3.56,2019
+42,8989618,Shelby Marken,21602,Youngstown State,Horizon,3.46,3.21,3.35,3.45,2019
+44,9121342,Eboni Hall,20584,Akron,Mid-American (MAC),3.76,3.91,4.27,3.85,2019
+45,9124211,Emily Fletchall,21101,Miami (OH),Mid-American (MAC),3.41,3.7,3.62,3.42,2019
+46,9545129,DiCaria Alvarez,20872,Florida A&amp;M,Mid-Eastern (MEAC),2.29,2.99,3.19,3.29,2019
+47,8987826,Christina LeMunyon,20829,Drake,Missouri Valley (MVC),3.6,3.65,3.55,3.68,2019
+48,9017352,Emily Brady,20974,Indiana State,Missouri Valley (MVC),3.56,3.71,3.54,3.57,2019
+49,9015572,Kim Jackson,20974,Indiana State,Missouri Valley (MVC),3.61,3.56,3.69,3.51,2019
+50,7260149,Bonnie Draxler,21326,San Diego State,Mountain West (MWC),4.2,4.29,4.35,4.51,2019
+51,9015614,Kathryn Tomczak,20583,Air Force,Mountain West (MWC),4.0,4.21,4.2,4.21,2019
+52,8554778,Marissa Berry,21326,San Diego State,Mountain West (MWC),4.05,4.17,4.01,4.12,2019
+53,9027982,Gabby Smith,20768,Colorado State,Mountain West (MWC),3.87,4.05,3.82,3.79,2019
+54,9097950,Jerni Self,20583,Air Force,Mountain West (MWC),3.56,3.77,3.91,3.79,2019
+56,8996553,Taylor Thurnherr,21402,St Francis U (PA),Northeast (NEC),3.25,3.7,3.65,3.7,2019
+57,8992584,Savanah Amato,20630,Austin Peay,Ohio Valley (OVC),4.04,4.03,3.95,3.8,2019
+58,8992576,Dascha Hix,20630,Austin Peay,Ohio Valley (OVC),3.72,3.86,3.65,3.8,2019
+59,7894362,Elleyse Garrett,21490,UCLA,PAC-12,3.69,4.05,4.2,4.36,2019
+60,9150143,Katelyn Frost,21526,Washington State,PAC-12,3.66,3.55,3.7,4.08,2019
+62,9630561,Nicole Summersett,21424,Stanford,PAC-12,3.62,3.85,3.9,3.89,2019
+63,9548382,Melissa Maneatis,21490,UCLA,PAC-12,3.71,3.96,3.72,3.5,2019
+64,9119082,Tori Hoggard,20619,Arkansas,Southeastern (SEC),4.4,4.55,4.5,4.56,2019
+65,9119052,Lexi (Weeks) Jacobus,20619,Arkansas,Southeastern (SEC),4.7,4.55,4.55,4.36,2019
+66,9119079,Rylee Robinson,20619,Arkansas,Southeastern (SEC),3.7,3.65,4.18,4.23,2019
+67,8990234,Hannah Emery,20615,Appalachian State,Southern (SoCon),3.6,3.66,3.67,3.65,2019
+68,8999466,Nicole Karabas,20855,Elon,Southern (SoCon),3.25,3.45,1.02,3.46,2019
+69,8990250,Sofia San Miguel,20615,Appalachian State,Southern (SoCon),3.21,3.45,3.67,3.43,2019
+70,8999457,Ellie Bennett,20855,Elon,Southern (SoCon),3.4,3.45,3.35,3.05,2019
+72,9122854,Caroline Bellows,21466,Texas-San Antonio,Southland (SLC),3.55,3.66,3.66,3.88,2019
+74,8995246,Alexis Pickney,20587,Alabama State,Southwestern (SWAC),3.05,3.21,3.05,2.75,2019
+75,9200189,Getter Lemberg,21545,Western Kentucky,Sun Belt,3.74,3.43,3.81,3.77,2019
+76,9181819,Caitlyn Dressler,21360,South Alabama,Sun Belt,3.65,3.8,3.66,3.2,2019
+81,8435303,Leah Frischmann,20809,Dayton,Atlantic 10,3.86,3.86,3.8,3.65,2018
+82,8150192,Madison Heath,20831,Duke,Atlantic Coast (ACC),4.2,4.3,4.35,4.45,2018
+85,7716568,Katie Freix,21507,Virginia,Atlantic Coast (ACC),3.5,3.75,3.78,3.93,2018
+86,9123683,Olivia Privitera,21510,Virginia Tech,Atlantic Coast (ACC),3.42,3.76,4.1,3.9,2018
+87,8429465,Taylor Amann,21576,Wisconsin,Big 10,3.84,4.16,4.2,4.36,2018
+88,8977921,Hannah Mulhern,21255,Penn State,Big 10,3.85,3.95,4.1,4.12,2018
+89,9109667,Madison Roberts,21230,Ohio State,Big 10,3.25,3.76,4.08,3.92,2018
+91,8429442,Laura Taylor,20996,Kansas,Big 12,4.05,4.12,4.31,4.35,2018
+92,8429453,Kally Long,21452,Texas,Big 12,3.99,4.31,4.4,4.34,2018
+93,9027531,Sara Kathryn Stevens,21453,Texas A&amp;M,Big 12,3.85,4.15,4.06,4.15,2018
+96,8429455,Emily Gunderson,21453,Texas A&amp;M,Big 12,4.14,4.0,4.2,3.78,2018
+98,8842029,Megan Vanderpool,20998,Kansas State,Big 12,3.65,3.76,3.76,3.44,2018
+100,7722281,Gemma Tedeschi,21072,Marquette,Big East,3.46,3.86,3.81,3.65,2018
+101,7975664,Danielle Brandon,21314,Sacramento State,Big Sky,3.7,4.12,3.98,3.97,2018
+104,8991726,Mariel Finger,21033,Liberty,Big South,3.5,3.75,3.68,3.32,2018
+106,8121054,Lauren Bartsch,21044,Long Beach State,Big West,3.65,3.61,3.9,3.85,2018
+107,7729580,Beth Rossi,20792,CS Northridge,Big West,3.46,3.51,3.77,3.85,2018
+115,8331500,Ayane Rosano,21292,Rice,C-USA,3.45,3.72,3.86,3.91,2018
+117,9107128,Shelby Garnand,20897,George Mason,Colonial (CAA),3.2,3.76,3.94,3.92,2018
+120,8329889,Madeline Aune,21364,South Dakota,Great West,3.8,3.7,3.8,3.8,2018
+129,8429570,Samantha Tollerud,21003,Kent State,Mid-American (MAC),3.86,4.13,4.16,4.14,2018
+130,6674246,Janina Pollatz,20844,Eastern Michigan,Mid-American (MAC),3.5,3.86,4.1,4.08,2018
+131,7674656,Rebekah Petty,20719,Central Michigan,Mid-American (MAC),3.71,3.8,3.83,3.97,2018
+145,8072540,Samantha Patterson,20988,Jacksonville State,Ohio Valley (OVC),3.48,3.59,3.45,3.35,2018
+147,7678561,Kristiana Warth,20618,Arizona State,PAC-12,3.55,3.7,4.07,3.92,2018
+148,6927760,Annie Sidor,21243,Oregon State,PAC-12,3.45,3.35,3.8,3.92,2018
+150,7678558,Haleigh Fritts,20618,Arizona State,PAC-12,3.69,3.85,3.72,3.72,2018
+158,8990383,Meghan Breden,21543,Western Carolina,Southern (SoCon),3.2,3.81,3.75,3.5,2018
+165,8990149,Lauren Gietzen,21198,North Dakota State,Summit,3.65,3.85,4.11,4.05,2018
+166,9108096,Morgan McIntyre,21545,Western Kentucky,Sun Belt,3.7,3.72,4.13,4.01,2018
+168,8980876,Jordan Friz,21360,South Alabama,Sun Belt,3.58,4.1,3.81,3.81,2018
+181,8992611,Sydney Sloan,21040,Lipscomb,Atlantic Sun,2.75,3.35,3.12,3.3,2017
+182,6657048,Hannah Sailar,21103,Michigan State,Big 10,3.98,3.98,4.1,4.2,2017
+186,5091788,Cami Gilson,21117,Minnesota,Big 10,3.95,4.03,3.91,4.04,2017
+188,6863737,Annie Rhodes,20641,Baylor,Big 12,4.2,4.2,4.45,4.61,2017
+200,6663980,Hayley Carbullido,21314,Sacramento State,Big Sky,3.51,3.55,3.7,3.93,2017
+204,6349277,Holly Tokar,21485,UC Davis,Big West,3.97,3.65,3.97,3.92,2017
+207,6243789,Ariel Cheng,21486,UC Irvine,Big West,3.87,3.93,3.91,3.9,2017
+214,6315480,Caitlin Nilssen,20792,CS Northridge,Big West,3.42,3.76,3.76,3.5,2017
+217,6246113,Mary Carson Pitts,21481,Tulane,C-USA,3.97,3.93,4.1,3.9,2017
+222,6258260,Brynn Warrington,21472,Towson,Colonial (CAA),3.25,3.5,3.7,3.6,2017
+223,6258264,Courtney Rose,21472,Towson,Colonial (CAA),3.25,3.35,3.55,3.5,2017
+224,3827684,Emily Grove,21364,South Dakota,Great West,4.25,4.3,4.5,4.6,2017
+225,5092910,Madison Mills,21364,South Dakota,Great West,4.1,4.2,4.1,4.2,2017
+226,6742549,Emily Brigham,21364,South Dakota,Great West,4.05,4.1,4.12,4.16,2017
+227,5092909,Hunter Wilkes,21364,South Dakota,Great West,4.11,4.15,4.24,4.16,2017
+237,6656835,Rebecca Szabo,20584,Akron,Mid-American (MAC),3.8,4.08,4.1,4.16,2017
+239,6244694,Morgan Estes,21003,Kent State,Mid-American (MAC),3.61,3.93,4.17,4.13,2017
+240,14283762,Natalie Uy,20844,Eastern Michigan,Mid-American (MAC),12.458333333333336,12.895833333333336,13.020833333333336,13.125,2017
+245,6348505,Katie Trupp,21373,Southern Illinois-Carbondale,Missouri Valley (MVC),3.65,3.76,3.85,3.96,2017
+246,6348493,Cara Engel,21373,Southern Illinois-Carbondale,Missouri Valley (MVC),3.65,3.91,4.06,3.95,2017
+253,4942098,Alison Powers,21175,Nevada-Reno,Mountain West (MWC),3.4,3.82,4.11,4.06,2017
+257,6495633,Katherine Magill,21326,San Diego State,Mountain West (MWC),3.21,3.37,3.76,3.61,2017
+262,6348458,Chleo LeGrand,21162,Murray State,Ohio Valley (OVC),3.2,3.48,3.35,3.3,2017
+263,5168413,Kristina Owsinski,21523,Washington,PAC-12,4.01,4.05,4.4,4.4,2017
+264,6243665,Elizabeth Quick,21523,Washington,PAC-12,3.89,4.14,4.22,4.35,2017
+267,5077659,Kristine Felix,21526,Washington State,PAC-12,3.86,4.04,4.0,4.0,2017
+270,6927675,Helen Ann Haun,21243,Oregon State,PAC-12,3.55,3.6,3.91,3.92,2017
+276,6794780,Lakan Taylor,20585,Alabama,Southeastern (SEC),4.15,4.26,4.17,4.31,2017
+277,6794788,Sarah Bell,21499,Vanderbilt,Southeastern (SEC),4.0,4.17,4.2,4.28,2017
+289,4933871,Anna Benke,21198,North Dakota State,Summit,3.7,3.86,3.75,3.96,2017
+290,6742564,Courtney Trapp,21365,South Dakota State,Summit,3.51,3.35,3.49,3.35,2017
+295,6349148,Amber Kozaki,20941,Hawaii Manoa,Western (WAC),3.87,3.83,3.82,3.92,2017
+299,8992612,Chelsea Bingham,21051,Louisville,American,3.47,3.76,3.42,3.55,2016
+303,5221053,Megan Clark,20831,Duke,Atlantic Coast (ACC),4.15,4.3,4.18,4.63,2016
+305,5221088,Erinn Schaal,21510,Virginia Tech,Atlantic Coast (ACC),3.42,3.81,3.72,3.91,2016
+310,5211090,Ashley Kessler,20839,East Tennessee State,Atlantic Sun,3.35,3.95,3.87,3.9,2016
+312,5499532,Lauren Chorny,21103,Michigan State,Big 10,3.42,4.05,3.93,4.25,2016
+313,5676535,Tess Merrill,21169,Nebraska,Big 10,3.71,3.8,3.99,4.2,2016
+316,5676529,Jennifer DeBellis,20966,Illinois,Big 10,3.71,3.9,4.14,4.05,2016
+323,5518264,Haley Cook,21461,Texas Tech,Big 12,3.8,3.84,3.99,4.17,2016
+328,5384365,Brittany Wooten,21453,Texas A&amp;M,Big 12,3.77,4.04,3.85,3.8,2016
+340,5267466,Jodi Lambert,21044,Long Beach State,Big West,3.35,3.57,3.67,3.91,2016
+367,4943488,Ellie Braidic,20844,Eastern Michigan,Mid-American (MAC),3.85,3.95,3.98,4.13,2016
+377,6863767,Kimyanna Rudolph,20974,Indiana State,Missouri Valley (MVC),4.0,4.08,4.2,3.91,2016
+382,4575064,Kristen Brown,70710,Arete Elite Track,Mountain West (MWC),3.9,4.27,4.17,4.28,2015
+384,4575081,Karen Snapper,21326,San Diego State,Mountain West (MWC),3.91,4.0,4.03,4.12,2016
+389,5031919,Annie Stirling,21180,New Mexico,Mountain West (MWC),3.75,3.92,3.86,3.65,2016
+400,5384385,Felicia Horvath,21493,USC,PAC-12,3.67,3.7,3.57,3.8,2016
+408,14296243,Megan Zimlich,20619,Arkansas,Southeastern (SEC),12.375,13.583333333333336,13.645833333333336,14.104166666666664,2016
+417,7860066,Demi Payne,21425,Stephen F. Austin,Southland (SLC),4.06,4.17,4.6,4.45,2016
+421,4933870,Brittany Stangl,21198,North Dakota State,Summit,3.7,3.82,3.76,4.06,2016
+425,8841991,Alexandra Pevtsova,20620,Arkansas State,Sun Belt,3.61,3.49,4.0,3.8,2016
+429,8841993,Megan Wright,20620,Arkansas State,Sun Belt,3.46,3.29,3.72,3.65,2016
+440,2841139,Stephanie Richartz,20966,Illinois,Big 10,4.06,4.07,4.3,4.25,2015
+442,3845924,Courtney Walden,21576,Wisconsin,Big 10,3.77,3.52,3.7,4.14,2015
+447,3843430,Kassie Powell,21103,Michigan State,Big 10,3.85,3.72,4.0,3.88,2015
+450,3860809,Victoria Wesley,21102,Michigan,Big 10,3.81,3.8,3.65,3.65,2015
+452,4469826,Katrine Haarklau,21128,Missouri,Big 12,4.17,4.35,4.2,4.24,2015
+462,2779406,Caitlin Maulin,20965,Idaho State,Big Sky,12.145833333333336,12.958333333333336,12.166666666666664,13.083333333333336,2015
+468,3863840,Amber Britt,21044,Long Beach State,Big West,3.4,3.4,3.55,3.7,2015
+476,3814327,Nina Ullom,21564,William &amp; Mary,Colonial (CAA),3.55,3.6,3.51,3.65,2015
+478,3804850,Alexis Gligor,20812,Delaware,Colonial (CAA),3.1,3.15,3.25,3.35,2015
+494,3848266,Libby Torresani,21208,Northern Iowa,Missouri Valley (MVC),3.28,3.65,4.05,3.84,2015
+496,4575064,Kristen Brown,21326,San Diego State,Mountain West (MWC),3.9,4.27,4.17,4.28,2015
+498,14451091,Kortney Ross,21326,San Diego State,Mountain West (MWC),4.08,4.08,4.0,4.15,2015
+500,2765546,Holly Waseloff,21326,San Diego State,Mountain West (MWC),3.58,3.97,3.8,4.06,2015
+507,4260473,Elena Clarke,21490,UCLA,PAC-12,3.66,3.76,4.07,4.14,2015
+516,2844301,Sandi Morris,20619,Arkansas,Southeastern (SEC),3.85,4.15,4.55,4.72,2015
+520,3844483,Megan Wall,21361,South Carolina,Southeastern (SEC),3.66,3.6,3.85,3.7,2015
+532,3857173,Robyn Morioka,20941,Hawaii Manoa,Western (WAC),3.77,3.77,3.72,3.82,2015
+533,1772172,Amber Thompson,21496,Utah State,Western (WAC),3.48,3.55,3.68,3.71,2015
+534,2844301,Sandi Morris,20619,Arkansas,Atlantic Coast (ACC),3.85,4.15,4.55,4.72,2015
+536,2768564,Leigh Allin,21510,Virginia Tech,Atlantic Coast (ACC),3.55,3.87,3.72,3.83,2014
+540,1750010,Kelsie Ahbe,20972,Indiana (IN),Big 10,4.1,4.3,4.25,4.4,2014
+553,2845178,Morgan Nichols,21232,Oklahoma,Big 12,3.53,3.65,3.62,3.38,2014
+554,2765124,Kelly Burke,21219,Notre Dame,Big East,3.65,3.8,3.72,3.85,2014
+558,1810348,Kayla Kamaka,21044,Long Beach State,Big West,3.6,3.76,3.82,3.85,2014
+563,2842662,Joanna Lapucha,21481,Tulane,C-USA,3.41,3.57,3.53,3.67,2014
+564,9206909,Mandissa Marshall,20897,George Mason,Colonial (CAA),3.86,4.0,4.3,4.25,2014
+569,2764966,Courtney Markow,20812,Delaware,Colonial (CAA),3.5,3.4,3.45,3.25,2014
+574,2826313,Ariane Beaumont-Courteau,20584,Akron,Mid-American (MAC),3.97,4.1,4.07,3.85,2014
+577,2764895,Kelly Morrissey,20719,Central Michigan,Mid-American (MAC),3.55,3.3,3.42,3.65,2014
+589,2841147,Margo Tucker,21180,New Mexico,Mountain West (MWC),4.06,3.85,3.95,3.85,2014
+591,2841148,Nathalie Busk,21180,New Mexico,Mountain West (MWC),3.71,3.85,3.75,3.67,2014
+592,1766891,Caitlin Owen,21175,Nevada-Reno,Mountain West (MWC),3.61,3.25,3.4,3.52,2014
+595,2872457,Shaylah Simpson,20618,Arizona State,PAC-12,4.02,4.3,3.9,4.15,2014
+596,3055206,Natasha Kolbo,21490,UCLA,PAC-12,3.85,4.07,4.01,4.15,2014
+597,3064649,Sammie Clark,21242,Oregon,PAC-12,3.82,4.0,4.12,4.15,2014
+601,2862797,Ellie McCardwell,21424,Stanford,PAC-12,4.16,4.08,3.98,3.97,2014
+603,3065174,Nicole Larson,21484,UC Berkeley,PAC-12,3.6,3.95,3.53,3.71,2014
+604,3084142,Courtney Reginato,21490,UCLA,PAC-12,3.7,4.0,3.97,3.7,2014
+606,2996853,Thea Weiss,21493,USC,PAC-12,3.4,3.52,3.77,3.7,2014
+610,2826074,Danielle Nowell,20619,Arkansas,Southeastern (SEC),3.9,4.07,4.02,4.25,2014
+613,2844327,Petra Olsen,21361,South Carolina,Southeastern (SEC),3.71,4.15,4.1,4.05,2014
+615,2844704,Linda Hadfield,21448,Tennessee,Southeastern (SEC),4.01,4.07,4.0,4.0,2014
+617,2770081,Cassandra Crawford,20615,Appalachian State,Southern (SoCon),3.85,3.85,3.75,3.65,2014
+625,9137833,Katie Nageotte,20623,Ashland,Atlantic 10,12.791666666666664,11.520833333333336,12.5,14.5625,2013
+627,1781612,Emily Mattoon,20831,Duke,Atlantic Coast (ACC),3.6,3.65,3.78,4.1,2013
+629,707710,Kelly Phillips,21510,Virginia Tech,Atlantic Coast (ACC),4.1,3.85,4.0,3.75,2012
+631,1673235,Michelle Quimby,21002,Kennesaw State,Atlantic Sun,3.7,3.66,3.5,3.75,2013
+634,2084050,Amanda Impellizerri,21103,Michigan State,Big 10,3.57,3.7,3.97,4.02,2013
+635,2074106,Elizabeth Eitzen,20966,Illinois,Big 10,3.42,3.69,3.95,3.86,2013
+643,1763646,Natasha Masterson,21452,Texas,Big 12,4.2,4.0,4.07,4.25,2013
+646,1673089,Sarah Hedberg,20996,Kansas,Big 12,3.45,3.65,3.8,3.77,2013
+649,8992612,Chelsea Bingham,21051,Louisville,Big East,3.47,3.76,3.42,3.55,2016
+651,1668025,Shelley Parker,21033,Liberty,Big South,3.56,3.85,3.65,3.57,2013
+652,1810345,Amanda Klinchuch,21044,Long Beach State,Big West,3.25,3.55,3.55,3.75,2013
+653,9195509,Emily Bush,21485,UC Davis,Big West,3.5,3.75,3.75,3.71,2013
+656,2048529,Erica Weiss,20717,Central Florida,C-USA,3.37,3.67,3.63,3.75,2013
+664,1747087,Claire Dishong,20784,Cornell,Heps,3.65,3.7,3.68,3.73,2013
+667,1746931,Alexandra Wood,20584,Akron,Mid-American (MAC),3.7,3.6,3.55,3.65,2013
+670,670134,Jenna Wexter,21208,Northern Iowa,Missouri Valley (MVC),3.85,3.65,3.98,3.86,2013
+672,1684978,Richelle Kimble,20974,Indiana State,Missouri Valley (MVC),3.8,3.86,4.05,3.65,2013
+673,1671948,Emily Swift,20968,Illinois State,Missouri Valley (MVC),3.05,3.56,3.58,3.35,2013
+675,1678625,Kelsy Hintz,21326,San Diego State,Mountain West (MWC),4.05,4.15,4.22,4.07,2013
+677,1771884,Bizzy Mellado,20583,Air Force,Mountain West (MWC),3.58,3.83,3.85,3.95,2013
+684,1672372,Sarah Lueck,21302,Robert Morris (PA),Northeast (NEC),3.2,3.15,3.05,3.3,2013
+685,1783485,Abigail Schmitz,20841,Eastern Illinois,Ohio Valley (OVC),3.36,3.69,3.82,3.9,2013
+686,1783495,Jill Schnurbusch,21370,Southeast Missouri State,Ohio Valley (OVC),3.49,3.72,3.7,3.8,2013
+687,1671260,Nikki Buchheit,21370,Southeast Missouri State,Ohio Valley (OVC),3.35,3.57,3.5,3.5,2013
+688,1766897,Logan Miller,21523,Washington,PAC-10,3.82,4.1,4.38,4.2,2013
+689,3064649,Sammie Clark,21242,Oregon,PAC-10,3.82,4.0,4.12,4.15,2014
+690,10890215,Allison Koressel,21490,UCLA,PAC-10,12.520833333333336,13.625,13.479166666666664,13.291666666666664,2013
+691,3055206,Natasha Kolbo,21490,UCLA,PAC-10,3.85,4.07,4.01,4.15,2014
+692,5168413,Kristina Owsinski,21523,Washington,PAC-10,4.01,4.05,4.4,4.4,2017
+693,2862797,Ellie McCardwell,21424,Stanford,PAC-10,4.16,4.08,3.98,3.97,2014
+694,3084142,Courtney Reginato,21490,UCLA,PAC-10,3.7,4.0,3.97,3.7,2014
+695,2872457,Shaylah Simpson,20618,Arizona State,PAC-10,4.02,4.3,3.9,4.15,2014
+696,1810363,Liz Goodrich,21490,UCLA,PAC-10,3.8,3.92,3.95,3.88,2013
+697,5077659,Kristine Felix,21526,Washington State,PAC-10,3.86,4.04,4.0,4.0,2017
+698,2996853,Thea Weiss,21493,USC,PAC-10,3.4,3.52,3.77,3.7,2014
+699,4260473,Elena Clarke,21490,UCLA,PAC-10,3.66,3.76,4.07,4.14,2015
+700,5384385,Felicia Horvath,21493,USC,PAC-10,3.67,3.7,3.57,3.8,2016
+701,3065174,Nicole Larson,21484,UC Berkeley,PAC-10,3.6,3.95,3.53,3.71,2014
+702,1772488,Alexis Paine,20585,Alabama,Southeastern (SEC),3.4,3.57,4.2,4.35,2013
+707,1772594,Alyson Hasty,21499,Vanderbilt,Southeastern (SEC),3.2,3.36,3.51,3.61,2013
+708,1772596,Morgan Toone,21499,Vanderbilt,Southeastern (SEC),3.65,3.71,3.9,3.61,2013
+711,1772261,Shelbie Zotyka,21321,Sam Houston State,Southland (SLC),3.5,3.5,3.83,3.71,2013
+712,9181249,Leslie Brost,21198,North Dakota State,Summit,13.770833333333336,14.104166666666664,13.770833333333336,13.770833333333336,2013
+715,604045,Stephanie Foreman,20620,Arkansas State,Sun Belt,4.0,4.11,4.12,4.11,2013
+720,624203,Katelyn Cass,20833,Duquesne,Atlantic 10,3.2,3.55,3.4,3.41,2012
+721,604454,Jillian Pizzo,21288,Rhode Island,Atlantic 10,3.2,3.1,3.05,3.11,2012
+722,682470,Amy Fryt,20831,Duke,Atlantic Coast (ACC),3.75,4.05,4.1,4.2,2012
+723,2844301,Sandi Morris,21187,North Carolina,Atlantic Coast (ACC),3.85,4.15,4.55,4.72,2015
+724,675770,Lauren Giffin,20876,Florida State,Atlantic Coast (ACC),3.55,3.7,3.95,3.9,2012
+730,635975,Breanna Bussel,21169,Nebraska,Big 10,3.75,3.91,4.0,4.15,2012
+734,635979,Cami Jiskra,21169,Nebraska,Big 10,3.85,3.96,4.1,3.92,2012
+737,645963,Jocelyn Witmer,21255,Penn State,Big 10,3.85,3.9,3.85,3.8,2012
+739,706826,Becca Pilkerton,21117,Minnesota,Big 10,3.7,3.95,3.92,3.55,2012
+740,7860066,Demi Payne,20996,Kansas,Big 12,4.06,4.17,4.6,4.45,2016
+743,628704,Aly Daily,21453,Texas A&amp;M,Big 12,3.85,3.66,3.98,4.0,2012
+745,662914,Jessica Doyle,21452,Texas,Big 12,3.7,3.86,3.96,3.7,2012
+747,623168,Claire Christie,20996,Kansas,Big 12,3.4,3.25,3.45,3.5,2012
+748,640636,Michelle Eby,20738,Cincinnati,Big East,3.85,3.91,4.06,4.05,2012
+750,629687,Melissa Meggiolaro,21505,Villanova,Big East,3.55,3.5,3.45,3.7,2012
+752,716374,Jennifer Sing,21513,VMI,Big South,2.4,3.4,3.8,4.05,2012
+753,603979,Tara Bowman,21575,Winthrop,Big South,3.25,3.35,3.25,3.7,2012
+755,625123,Rachel Houseknecht,21033,Liberty,Big South,2.9,3.5,3.1,3.55,2012
+756,625126,Tami Tolsma,21033,Liberty,Big South,2.95,3.25,3.25,3.25,2012
+757,821021,Lauren Radke,21485,UC Davis,Big West,3.75,3.82,3.83,3.85,2012
+761,805505,Lauren Freschauf,21486,UC Irvine,Big West,2.95,3.62,3.59,3.5,2012
+763,662749,Cleona Oliver,21292,Rice,C-USA,3.7,3.85,3.96,3.98,2012
+764,1692966,Karley King,20955,Houston,C-USA,3.77,3.96,3.85,4.04,2014
+768,678210,Jordan Daywalt,21195,North Carolina-Wilmington,Colonial (CAA),3.65,3.65,3.65,3.9,2012
+772,629319,Gina Benigno,21472,Towson,Colonial (CAA),2.6,2.45,2.74,3.05,2012
+775,607953,Samantha Brady,20784,Cornell,Heps,3.5,3.66,3.7,3.26,2012
+776,676416,Kellie Schuh,20970,Illinois-Chicago,Horizon,3.8,3.7,3.96,4.01,2012
+777,692998,Stephanie Laidlaw,20970,Illinois-Chicago,Horizon,2.74,3.25,3.24,3.28,2012
+779,636241,Katherine Lee,20584,Akron,Mid-American (MAC),3.91,3.96,4.15,3.92,2012
+780,618854,Sarah Kinnaman,21101,Miami (OH),Mid-American (MAC),3.55,3.7,3.75,3.69,2012
+782,639254,Sarah Ross,21546,Western Michigan,Mid-American (MAC),3.55,3.78,3.8,3.5,2012
+784,688740,Nicole Macut,21470,Toledo,Mid-American (MAC),3.1,2.9,2.9,3.3,2012
+787,671035,Rachelle Harbert,20968,Illinois State,Missouri Valley (MVC),3.4,3.66,3.85,3.9,2012
+792,654186,Kimber Shealy,20583,Air Force,Mountain West (MWC),3.85,3.9,3.83,3.92,2012
+796,654210,Tawny Lambuth,20583,Air Force,Mountain West (MWC),3.35,3.7,3.81,3.8,2012
+798,626320,Jessica Huber,21159,Mt St. Mary's,Northeast (NEC),3.34,3.3,3.1,3.05,2012
+802,628246,Lexi Barr,21162,Murray State,Ohio Valley (OVC),3.35,3.48,3.6,3.5,2012
+803,719200,Katerina Stefanidi,21424,Stanford,PAC-10,4.13,4.3,4.42,4.48,2012
+807,14451091,Kortney Ross,21242,Oregon,PAC-10,4.08,4.08,4.0,4.15,2015
+812,901048,Tori Anthony,21490,UCLA,PAC-10,4.11,3.95,3.95,3.97,2012
+815,656160,Cara Carpenter,20618,Arizona State,PAC-10,4.0,4.0,3.87,3.78,2012
+816,6601099,Anginae Monteverde,21242,Oregon,PAC-10,3.72,3.81,4.3,4.17,2016
+819,636411,Tina Sutej,20619,Arkansas,Southeastern (SEC),4.15,4.4,4.61,4.55,2012
+822,656590,Rachel Laurent,21056,LSU,Southeastern (SEC),4.3,4.25,4.35,4.15,2012
+825,666096,Meagen Martin,21499,Vanderbilt,Southeastern (SEC),3.4,3.52,3.86,3.97,2012
+827,666018,Samantha Stenzel,21004,Kentucky,Southeastern (SEC),3.65,3.85,3.86,3.77,2012
+832,676854,Sonia Grabowska,21496,Utah State,Western (WAC),3.96,4.21,4.1,3.98,2012
+835,677521,Morgan Dunning,20964,Idaho,Western (WAC),3.3,3.63,3.5,3.35,2012
+836,1766891,Caitlin Owen,21175,Nevada-Reno,Western (WAC),3.61,3.25,3.4,3.52,2014
+837,9137833,Katie Nageotte,20809,Dayton,Atlantic 10,12.791666666666664,11.520833333333336,12.5,14.5625,2013
+842,4575064,Kristen Brown,21510,Virginia Tech,Atlantic Coast (ACC),3.9,4.27,4.17,4.28,2015
+846,625177,Kathleen Darraugh,21507,Virginia,Atlantic Coast (ACC),3.2,3.65,3.7,3.55,2011
+849,640711,Vera Neuenswander,20972,Indiana (IN),Big 10,4.0,3.95,4.31,4.36,2011
+854,636323,Andrea Marcos,21102,Michigan,Big 10,2.9,3.45,3.51,3.8,2011
+857,646162,Kara Rogier,21274,Purdue,Big 10,3.1,3.4,3.47,3.6,2011
+858,636017,Natalie Willer,21169,Nebraska,Big 12,4.05,4.38,4.3,4.33,2011
+859,1673082,Jacquelyn Perryman,20996,Kansas,Big 12,3.96,4.0,3.7,4.13,2011
+860,635979,Cami Jiskra,21169,Nebraska,Big 12,3.85,3.96,4.1,3.92,2012
+863,635975,Breanna Bussel,21169,Nebraska,Big 12,3.75,3.91,4.0,4.15,2012
+866,677707,Jessie Gibbs,21461,Texas Tech,Big 12,3.4,3.61,3.47,3.86,2011
+868,275931,Abby Jones,20996,Kansas,Big 12,3.35,3.7,3.65,3.6,2011
+872,629655,Ashlyn Llerandi,21505,Villanova,Big East,3.55,3.75,4.0,4.05,2011
+873,618868,Stephanie Duffy,21367,South Florida,Big East,3.7,3.98,4.0,4.05,2011
+874,618859,Dana Webb,21367,South Florida,Big East,3.51,4.04,3.91,3.97,2011
+875,626646,Jessica Sullivan,21219,Notre Dame,Big East,3.55,3.65,3.26,3.65,2011
+877,624443,Victoria Toso,21261,Pittsburgh,Big East,3.5,3.5,3.6,3.5,2011
+879,683034,Stacey Irvine,21142,Montana State,Big Sky,3.4,3.7,4.0,3.97,2011
+880,692367,Ericka Violett,21314,Sacramento State,Big Sky,3.65,3.65,3.85,3.95,2011
+881,692376,Kaitlynne Moore,21314,Sacramento State,Big Sky,3.65,3.72,3.7,3.8,2011
+883,623461,Chelsi Friese,20848,Eastern Washington,Big Sky,3.35,3.7,3.75,3.25,2011
+892,691536,Katelyn Beighton,21044,Long Beach State,Big West,3.4,3.7,3.48,3.65,2011
+894,834799,Christin Carlile,20694,Cal Poly SLO,Big West,3.45,3.4,3.59,3.55,2011
+896,689214,Jennifer Brown,21489,UC Santa Barbara,Big West,3.41,3.55,3.35,3.13,2011
+902,678188,Anne Powell,21195,North Carolina-Wilmington,Colonial (CAA),3.65,3.65,3.2,3.85,2011
+905,606732,Emily Jeremiah,21564,William &amp; Mary,Colonial (CAA),3.75,3.9,3.7,3.5,2011
+909,676494,Erin Havener,21580,Wisconsin-Milwaukee,Horizon,3.35,3.65,3.85,4.0,2011
+912,790388,Amanda Carpin,21602,Youngstown State,Horizon,2.9,3.1,3.15,3.04,2011
+928,691610,Katie Vo,21326,San Diego State,Mountain West (MWC),3.71,3.55,3.75,3.81,2011
+938,676007,Melissa Gergel,21242,Oregon,PAC-10,4.11,4.32,4.35,4.45,2011
+943,678347,Allison Stokke,21484,UC Berkeley,PAC-10,4.11,4.21,4.1,4.1,2011
+945,689137,Jordan Roskelley,21242,Oregon,PAC-10,3.75,4.01,4.07,4.1,2011
+948,689178,Theresa (Raub) Kroll,21484,UC Berkeley,PAC-10,3.5,3.81,3.35,3.96,2011
+950,677616,Kendall Mays,21526,Washington State,PAC-10,3.35,3.55,3.95,3.88,2011
+957,605494,Rebecca Frey,20683,Bucknell,Patriot,3.65,3.66,3.55,3.65,2011
+960,665913,Daisy Glasser,20871,Florida,Southeastern (SEC),3.95,4.05,3.97,4.11,2011
+974,679586,Alicia Echaverria,21175,Nevada-Reno,Western (WAC),3.6,3.55,3.77,3.73,2011
+980,618780,Katie DeVault,20809,Dayton,Atlantic 10,2.9,3.25,3.4,3.3,2010
+984,271595,Caroline Kennedy,20751,Clemson,Atlantic Coast (ACC),3.65,3.85,3.95,4.0,2010
+1000,636009,Lindsey Maher,21169,Nebraska,Big 12,3.5,3.75,3.85,3.81,2010
+1022,691499,Alison Stamos,20790,CS Fullerton,Big West,3.1,3.4,3.7,3.85,2010
+1024,719158,Jenna Homes,20694,Cal Poly SLO,Big West,3.8,3.7,4.1,3.75,2010
+1025,689204,Tessa Fraser,21485,UC Davis,Big West,3.2,3.7,3.75,3.7,2010
+1026,719159,Nicki Lopes,20694,Cal Poly SLO,Big West,3.4,3.3,3.7,3.66,2010
+1044,633844,Bailey Carroll,21597,Yale,Heps,3.05,3.05,3.2,3.25,2010
+1048,646224,Kim Ryan,21594,Wright State,Horizon,2.75,2.8,3.04,2.95,2010
+1049,636222,Carrie Kayes,20584,Akron,Mid-American (MAC),3.65,3.91,4.3,4.25,2010
+1054,272243,Sabrina Forstein,20671,Bowling Green,Mid-American (MAC),3.2,3.65,3.7,3.65,2010
+1055,636598,Christen Bosch,21228,Ohio,Mid-American (MAC),3.35,3.55,3.55,3.55,2010
+1056,639234,Bailey Wandyg,21546,Western Michigan,Mid-American (MAC),3.35,3.25,3.25,3.4,2010
+1058,630827,Kylie Hutson,20974,Indiana State,Missouri Valley (MVC),3.9,4.1,4.4,4.51,2010
+1062,676290,Ashley Rosenbaum,21560,Wichita State,Missouri Valley (MVC),3.5,3.5,3.5,3.32,2010
+1083,678330,Caitlin Hewitt,21424,Stanford,PAC-10,3.7,3.85,3.73,3.9,2010
+1088,636394,Katie Stripling,20619,Arkansas,Southeastern (SEC),3.9,4.2,4.4,4.41,2010
+1091,656572,Katelyn Rodrigue,21056,LSU,Southeastern (SEC),4.05,4.08,4.12,4.03,2010
+1094,637470,Katherine Strickland,20585,Alabama,Southeastern (SEC),3.5,3.65,3.7,3.7,2010
+1101,667749,Sammantha Kouba,21198,North Dakota State,Summit,3.35,3.55,3.7,3.65,2010
+1104,677515,K.C. Dahlgren,20964,Idaho,Western (WAC),3.82,4.0,4.0,3.97,2010
+1146,691511,Kelly MacLean,20790,CS Fullerton,Big West,3.4,3.65,3.7,3.85,2009
+1176,676294,Brooke Demo,21560,Wichita State,Missouri Valley (MVC),3.65,3.8,4.01,4.16,2009
+1179,669792,Whitney Johnson,21180,New Mexico,Mountain West (MWC),3.68,3.95,3.77,3.95,2009
+1190,1673082,Jacquelyn Perryman,20617,Arizona,PAC-10,3.96,4.0,3.7,4.13,2011
+1193,674290,Kenisha Strong,21493,USC,PAC-10,3.35,3.2,3.41,3.7,2009
+1200,665963,Julianne Toto,20900,Georgia,Southeastern (SEC),3.5,3.65,3.7,4.1,2009
+1202,637474,Lynda Cooper,20585,Alabama,Southeastern (SEC),3.2,3.5,4.08,3.95,2009
+1210,667572,Samantha Weaver,20941,Hawaii Manoa,Western (WAC),3.5,3.5,3.85,3.8,2009
+1234,1234937,Dalya Taman,20790,CS Fullerton,Big West,3.55,3.65,3.81,3.85,2008
+1244,1261554,Rachel Greff,21292,Rice,C-USA,4.0,4.1,3.9,4.1,2008
+1245,1639444,Clara Blattler,20937,Harvard,Heps,3.2,3.35,3.65,3.75,2008
+1246,1950816,Tiffany Chang,20680,Brown,Heps,3.66,3.5,3.5,3.55,2008
+1251,1891888,Jessica Miller,20584,Akron,Mid-American (MAC),3.35,3.65,3.65,3.91,2008
+1255,1858344,Carrie Hinners,20685,Buffalo,Mid-American (MAC),3.5,3.55,3.35,3.25,2008
+1259,1405822,Monica Pacas,21326,San Diego State,Mountain West (MWC),3.8,3.8,4.0,4.05,2008
+1260,1405820,Christin Shibley,21326,San Diego State,Mountain West (MWC),3.56,3.65,3.8,3.85,2008
+1263,692624,Ingrid Kantola,21490,UCLA,PAC-10,3.81,3.8,4.05,4.31,2008
+1267,271239,Stevie Marshalek,21523,Washington,PAC-10,3.96,3.6,4.06,3.96,2008
+1282,805609,Lyndly Tamura,21488,UC San Diego,West Coast (WCC),3.41,3.51,3.46,3.42,2010
+1283,1405795,Melinda Owen,20964,Idaho,Western (WAC),3.76,3.67,4.0,4.11,2008
+1284,1946869,Patricia Gauthier,20941,Hawaii Manoa,Western (WAC),3.2,3.81,3.8,4.06,2008
