@@ -1,0 +1,411 @@
+,ID,Name,School_ID,School,Division,Fr_PR,So_PR,Jr_PR,Sr_PR,Grad_Yr
+0,10795088,Greg Matzelle,20661,Binghamton,America East,11.1,10.71,10.54,10.74,2021
+1,10879455,Cravont Charleston,21190,North Carolina State,Atlantic Coast (ACC),10.07,10.21,10.13,10.1,2021
+2,10801601,Tyson Spears,20903,Georgia Tech,Atlantic Coast (ACC),10.45,10.73,10.62,10.58,2021
+3,10879340,Jackson Webb,21232,Oklahoma,Big 12,10.48,10.42,10.41,10.03,2021
+4,10880455,Maxwell Willis,20641,Baylor,Big 12,10.03,10.12,10.34,10.39,2021
+5,10945312,Jace Comick,21453,Texas A&amp;M,Big 12,10.3,10.24,10.3,10.48,2021
+6,10880452,Ian Braxton,20641,Baylor,Big 12,10.5,10.58,10.63,10.82,2021
+7,8987674,Jonah Mathews,20848,Eastern Washington,Big Sky,10.74,10.73,10.58,10.52,2021
+8,10882521,Cory Mullanix,20965,Idaho State,Big Sky,10.57,10.74,10.65,10.85,2021
+9,11010493,Kent Harris,21044,Long Beach State,Big West,10.53,10.4,10.59,10.87,2021
+10,11102468,Chineme Allison,20694,Cal Poly SLO,Big West,10.73,10.81,10.77,10.92,2021
+11,12898955,Seth Enochs,21486,UC Irvine,Big West,11.58,11.2,11.16,11.04,2021
+12,12837561,Chris Howard,21489,UC Santa Barbara,Big West,11.14,11.05,10.88,11.11,2021
+13,10918552,Naukym Morton,21203,Northeastern,Colonial (CAA),10.8,10.41,10.8,11.13,2021
+14,10796491,Michael Papper,21054,Loyola-Chicago,Horizon,11.3,11.28,11.46,11.1,2021
+15,10808734,Gerom Solis,20978,Iona,Metro Atlantic (MAAC),11.06,11.08,11.02,11.56,2021
+16,10861323,Malik Hudson,20584,Akron,Mid-American (MAC),10.98,11.05,11.2,11.38,2021
+17,10873583,Timothy Ashley,20872,Florida A&amp;M,Mid-Eastern (MEAC),11.09,11.07,10.69,10.86,2021
+18,14386935,Jacoby McNamara,21242,Oregon,PAC-12,11.12,10.94,11.06,10.42,2021
+19,12541049,Kedrin Jefferson,20622,Army,Patriot,10.55,10.62,10.8,11.08,2021
+20,10942242,Bryan Henderson,21321,Sam Houston State,Southland (SLC),10.49,11.24,10.39,10.24,2021
+21,10855551,Ben Collerton,21460,Texas State,Southland (SLC),11.38,11.15,11.13,11.21,2021
+22,10897216,Chris Felix,20986,Jackson State,Southwestern (SWAC),10.7,10.58,10.69,10.67,2021
+23,10925836,Keith Davis,21360,South Alabama,Sun Belt,11.08,10.59,10.75,10.9,2021
+25,8997264,Shane Harris,21430,Stony Brook,America East,10.87,10.91,11.22,11.01,2019
+26,9027549,Mario Burke,20955,Houston,American,10.27,10.14,10.1,9.98,2019
+27,8992634,Davon DeMoss,21093,Memphis,American,10.47,10.17,10.26,10.05,2019
+28,9027561,John Lewis III,20955,Houston,American,10.49,10.24,10.36,10.46,2019
+29,9118771,Joseph Carter,21288,Rhode Island,Atlantic 10,10.84,10.76,11.19,10.84,2019
+32,9142563,Isaiah Taylor,21100,Miami (FL),Atlantic Coast (ACC),10.65,10.4,10.6,10.77,2019
+33,9101578,Devin Quinn,20966,Illinois,Big 10,10.42,10.2,10.12,10.01,2019
+34,9119086,Andrew Hudson,21461,Texas Tech,Big 12,10.19,10.41,10.26,10.13,2019
+39,9018721,Nick Albus,20998,Kansas State,Big 12,10.61,10.58,10.66,10.65,2019
+40,9122774,Cody Cunningham,20641,Baylor,Big 12,11.05,10.73,11.07,11.12,2019
+41,8984760,Connor Boos,21072,Marquette,Big East,10.69,10.75,10.71,10.96,2019
+43,8429706,Kahlim Denmark,20755,Coastal Carolina,Big South,10.68,10.53,10.91,10.68,2019
+44,9127110,Joshua Paramore,20731,Charleston Southern,Big South,10.54,10.6,10.58,10.72,2019
+45,9198337,Greg Edwards,21033,Liberty,Big South,10.83,10.83,10.66,10.83,2019
+46,8032230,Mason Rollins,20790,CS Fullerton,Big West,10.87,10.83,10.54,10.45,2019
+47,9359063,Callan Cochran,21489,UC Santa Barbara,Big West,10.96,10.78,10.83,10.51,2019
+51,9359506,Steven Childs,21485,UC Davis,Big West,11.31,10.93,10.79,11.15,2019
+52,9159008,Diego Courbis,20790,CS Fullerton,Big West,11.22,10.96,11.18,11.19,2019
+54,11167103,Sam Schubert,20790,CS Fullerton,Big West,11.46,11.46,11.42,11.56,2020
+56,9155427,Collins Ebozue,21203,Northeastern,Colonial (CAA),10.88,10.8,10.89,10.92,2019
+57,9118739,Jamik Alexander,21508,Virginia Commonwealth,Colonial (CAA),10.68,10.67,11.05,10.93,2019
+58,9107114,Junias Agyei,20897,George Mason,Colonial (CAA),11.12,10.57,11.09,10.97,2019
+59,9107203,Justin West,21508,Virginia Commonwealth,Colonial (CAA),11.2,11.06,11.22,11.37,2019
+60,9159862,Joe Reagan,21364,South Dakota,Great West,10.71,10.55,10.58,10.87,2019
+61,8987758,Tyler Liddiard,21497,Utah Valley University,Great West,10.75,10.61,10.6,11.37,2019
+62,9144320,Justin Carmouche,28394,Houston Baptist,Great West,11.16,11.2,11.46,11.42,2019
+63,8991928,Zach Menchaca,20784,Cornell,Heps,10.41,10.47,10.54,10.56,2019
+64,8991869,Alex Beck,20784,Cornell,Heps,10.57,10.79,10.69,10.8,2019
+65,9124060,Richard Clark,20687,Butler,Horizon,11.03,11.26,10.83,10.77,2019
+66,9006125,Jake Kellersohn,20687,Butler,Horizon,11.57,11.27,11.35,11.19,2019
+68,9006097,Tim Vestuto,20687,Butler,Horizon,10.9,10.92,10.98,11.71,2019
+70,9018279,Brandon Harris,21003,Kent State,Mid-American (MAC),10.81,10.68,10.62,10.7,2019
+72,8985122,Rodney Rowe,21188,North Carolina A&amp;T,Mid-Eastern (MEAC),10.31,10.28,10.23,10.05,2019
+74,9107150,Korey Lombard,20956,Howard,Mid-Eastern (MEAC),11.45,11.32,10.86,10.75,2019
+75,9003008,Julius Allen,20813,Delaware State,Mid-Eastern (MEAC),11.29,11.02,10.88,10.78,2019
+76,9000447,Trey Clark,20929,Hampton,Mid-Eastern (MEAC),11.12,10.84,10.96,11.05,2019
+77,8987823,Aaron Chier,20829,Drake,Missouri Valley (MVC),10.59,10.65,10.51,10.81,2019
+78,8987862,Austin Heitland,21208,Northern Iowa,Missouri Valley (MVC),11.41,11.09,10.96,11.21,2019
+79,9025072,Bryce Kirby,20666,Boise State,Mountain West (MWC),10.54,10.31,10.47,10.36,2019
+80,7716610,Nick Kravec,20768,Colorado State,Mountain West (MWC),11.71,11.54,11.26,11.25,2019
+81,9010315,Caleb Williams,21045,Long Island U - Brooklyn,Northeast (NEC),10.59,10.44,10.88,10.66,2019
+82,8996920,Kobe White,21045,Long Island U - Brooklyn,Northeast (NEC),11.03,11.27,10.93,10.89,2019
+83,9124061,Brandan Lane,20841,Eastern Illinois,Ohio Valley (OVC),11.18,10.64,10.71,10.68,2019
+84,8992702,Jordan Thomas,21449,Tennessee State,Ohio Valley (OVC),10.99,11.2,10.87,11.16,2019
+85,7715704,Leon Powell,21490,UCLA,PAC-12,10.23,10.41,10.26,10.39,2019
+86,7715794,Harrison Williams,21424,Stanford,PAC-12,10.83,10.69,10.81,10.68,2019
+87,9150147,Ray Littles,21526,Washington State,PAC-12,11.03,10.98,10.84,10.7,2019
+88,9125833,Ethan Gardner,21526,Washington State,PAC-12,10.99,10.77,10.79,10.87,2019
+90,10794874,Evan Lexo,21167,Navy,Patriot,11.0,10.46,10.62,10.87,2020
+92,8997655,Andre Vaughn,20622,Army,Patriot,10.93,10.85,10.44,10.67,2019
+93,9000492,Aaron Watson,21167,Navy,Patriot,11.08,10.84,10.51,10.73,2019
+94,9102324,Kevin Dyer,20622,Army,Patriot,10.7,10.67,10.9,10.84,2019
+95,9015559,Mustaqeem Williams,21448,Tennessee,Southeastern (SEC),10.33,10.33,10.12,10.08,2019
+96,9197889,Jaron Flournoy,21056,LSU,Southeastern (SEC),10.63,10.56,10.32,10.12,2019
+97,9155102,Ryan Clark,20871,Florida,Southeastern (SEC),10.25,10.22,10.16,10.44,2019
+98,9107597,Yohance Thomas,21361,South Carolina,Southeastern (SEC),10.73,10.66,11.01,10.92,2019
+99,9151492,Josiah Johnson,20739,The Citadel,Southern (SoCon),10.58,10.58,10.41,10.44,2019
+100,9098160,Micah Larkins,21216,Northwestern State,Southland (SLC),10.15,10.2,10.02,10.11,2019
+101,9098111,Tyler Smith,21090,McNeese State,Southland (SLC),10.42,10.37,10.57,10.27,2019
+102,7157197,Deontre Haynes,21462,Texas-Arlington,Southland (SLC),10.66,10.38,10.33,10.29,2019
+104,9583791,AJ Tisdel,21321,Sam Houston State,Southland (SLC),11.03,10.8,10.76,10.76,2019
+106,9639124,Norris Spike,20587,Alabama State,Southwestern (SWAC),10.56,10.71,10.69,10.54,2019
+107,9108206,Samuel Omoera,21267,Prairie View A&amp;M,Southwestern (SWAC),10.49,10.4,10.76,10.55,2019
+109,9184798,Ty'Ron Baker,21267,Prairie View A&amp;M,Southwestern (SWAC),11.11,11.0,11.0,11.54,2019
+110,7678573,Justin Lewis,21381,Southern Utah,Summit,10.86,10.58,10.91,10.78,2019
+112,9144181,James Cole,21202,North Texas,Sun Belt,10.66,10.56,10.66,10.9,2019
+113,9210854,Alex Elam,21360,South Alabama,Sun Belt,10.79,10.53,10.49,11.01,2019
+124,8428354,Molefi Maat,20966,Illinois,Big 10,10.57,10.42,10.77,10.44,2018
+125,7681936,Khoury Crenshaw,21102,Michigan,Big 10,10.53,10.49,10.38,10.53,2018
+126,8428312,Antoine Lloyd,21169,Nebraska,Big 10,10.4,10.53,10.54,10.67,2018
+127,8138678,William Dougherty,20979,Iowa,Big 10,11.42,11.37,11.04,11.02,2018
+128,7234063,Cody Walton,21169,Nebraska,Big 10,11.52,11.22,11.14,11.31,2018
+133,8085372,Bennie Wesley,21232,Oklahoma,Big 12,10.54,10.52,10.46,10.48,2018
+137,7762834,Andrew Ghizzone,20765,Colorado,Big 12,11.72,11.49,11.28,11.48,2018
+139,7735721,Jeremy VanAssche,20848,Eastern Washington,Big Sky,10.36,10.31,10.5,10.29,2018
+142,7735949,Max Jette,21314,Sacramento State,Big Sky,11.67,11.6,11.67,11.57,2018
+145,8429598,James House,20945,High Point,Big South,10.91,10.49,10.73,10.59,2018
+148,9633510,Sike Azu-Irondi,21489,UC Santa Barbara,Big West,10.68,10.89,10.53,10.57,2018
+149,6349285,Michael Kojin,21487,UC Riverside,Big West,10.88,10.78,10.7,10.64,2018
+150,8032231,Bernhardt Fourie,21485,UC Davis,Big West,11.36,11.29,11.04,10.74,2018
+154,7894971,Mason Guzman-Sanchez,20790,CS Fullerton,Big West,11.44,11.21,11.03,10.95,2018
+155,8120960,Michael Hamill,21486,UC Irvine,Big West,11.2,10.45,10.89,11.05,2018
+156,8120954,Sean Williams,21487,UC Riverside,Big West,11.04,11.01,10.92,11.06,2018
+162,6657125,Kyle Darrow,21203,Northeastern,Colonial (CAA),11.3,10.6,10.51,10.42,2018
+166,9107204,Kareem Payne,21508,Virginia Commonwealth,Colonial (CAA),11.01,10.79,10.69,11.15,2018
+171,7966688,Carrington Akosa,21270,Princeton,Heps,10.75,10.49,10.58,10.45,2018
+174,7691654,Alexander Moore,20937,Harvard,Heps,11.05,10.97,11.04,10.83,2018
+175,8991873,Brailin Paulino,20784,Cornell,Heps,10.69,10.58,10.7,10.83,2018
+176,8991918,Ryan Weigel,20784,Cornell,Heps,10.98,10.86,10.89,10.98,2018
+177,8988653,Wyatt David,21254,Penn,Heps,11.01,11.2,11.25,11.29,2018
+179,8429693,Carl Zallow,21602,Youngstown State,Horizon,10.91,10.51,10.63,10.93,2018
+181,8404866,James Sampson,21498,Valparaiso,Horizon,11.43,11.13,10.99,11.19,2018
+185,9142545,Taron Slone,20584,Akron,Mid-American (MAC),11.04,10.68,10.49,10.47,2018
+187,7674633,Jamar Hardy,20719,Central Michigan,Mid-American (MAC),10.98,10.91,10.91,10.93,2018
+189,9197659,Zane Shreve,21101,Miami (OH),Mid-American (MAC),11.53,12.39,11.58,11.69,2018
+191,8429673,Kareem Fair,20659,Bethune-Cookman,Mid-Eastern (MEAC),10.44,10.42,10.3,10.35,2018
+199,7757684,Tyler Berson,20583,Air Force,Mountain West (MWC),11.34,11.26,11.38,10.98,2018
+200,7715768,Daniel Lam,21180,New Mexico,Mountain West (MWC),11.38,11.29,11.26,11.13,2018
+201,7975684,Eric Fernandez,20887,Fresno State,Mountain West (MWC),10.91,10.99,11.01,11.2,2018
+206,8992700,Jemarruse Amos,21449,Tennessee State,Ohio Valley (OVC),11.54,12.11,11.51,11.47,2018
+207,8429450,Isaiah Brandt-Sims,21424,Stanford,PAC-12,10.55,10.73,10.61,10.41,2018
+208,7715762,Zach Smith,21526,Washington State,PAC-12,10.83,10.54,10.67,10.57,2018
+210,8961140,Isaac Hing,20617,Arizona,PAC-12,11.02,10.79,10.7,10.67,2018
+217,7859852,Devin Enslen,21167,Navy,Patriot,10.73,10.49,10.66,10.59,2018
+219,8120997,Lee Bares,20622,Army,Patriot,11.72,11.54,11.63,11.45,2018
+221,7853924,Kenzo Cotton,20619,Arkansas,Southeastern (SEC),10.32,10.07,9.96,10.13,2018
+224,8975547,Tim Duckworth,21004,Kentucky,Southeastern (SEC),11.13,10.9,10.54,10.57,2018
+226,8975533,Damien Daniels,20871,Florida,Southeastern (SEC),10.7,10.66,10.56,11.06,2018
+228,8429825,Amir James,21216,Northwestern State,Southland (SLC),10.43,10.19,10.2,10.12,2018
+238,8428305,Jaylen Bacon,20620,Arkansas State,Sun Belt,10.1,10.25,9.97,9.97,2018
+239,8429249,Elijah Ross,20620,Arkansas State,Sun Belt,10.71,10.99,10.22,10.25,2018
+248,7967016,Tevin Thompson,20738,Cincinnati,American,10.88,10.9,10.9,10.79,2017
+253,6239856,Dante Price,21510,Virginia Tech,Atlantic Coast (ACC),10.73,10.73,10.69,10.71,2017
+254,5354376,Robert Rohner,20831,Duke,Atlantic Coast (ACC),10.75,10.7,10.76,10.79,2017
+255,10879431,Daniel Golubovic,20831,Duke,Atlantic Coast (ACC),11.69,11.35,11.53,11.25,2017
+256,6657097,Cameron Cooper,21190,North Carolina State,Atlantic Coast (ACC),11.07,11.37,11.21,11.34,2017
+257,6656944,Matthew Moore,20839,East Tennessee State,Atlantic Sun,10.7,10.7,10.58,10.59,2017
+264,6489414,Senoj-Jay Givans,21452,Texas,Big 12,10.15,9.97,9.96,10.02,2017
+266,6244287,Charles Anumnu,21452,Texas,Big 12,10.48,10.31,10.32,10.23,2017
+276,6657154,Chris Spadaro,21261,Pittsburgh,Big East,11.48,11.48,10.88,11.18,2017
+278,5342116,Michael Turner,21314,Sacramento State,Big Sky,10.97,11.04,10.9,10.55,2017
+291,6453272,Lee Duncan,21489,UC Santa Barbara,Big West,11.13,10.72,10.78,10.78,2017
+292,7894390,Kiyoshi Johnson,20792,CS Northridge,Big West,11.17,10.82,10.71,10.78,2017
+299,5854916,Taylor Cudequest,20792,CS Northridge,Big West,11.69,11.69,11.36,11.04,2017
+300,6664028,AJ Elam,21044,Long Beach State,Big West,11.14,10.8,11.18,11.11,2017
+301,8961847,Teddy Scranton,20694,Cal Poly SLO,Big West,11.51,11.36,11.23,11.27,2017
+303,6656974,Ayodeji Raymond,20897,George Mason,Colonial (CAA),11.26,10.67,10.48,10.53,2017
+310,8917814,Kwame Fordwor,21203,Northeastern,Colonial (CAA),10.78,11.26,10.87,10.93,2017
+312,9127071,Tim McNeill,21195,North Carolina-Wilmington,Colonial (CAA),11.3,11.17,11.11,11.09,2017
+335,6657083,Caleb Gabriel,21188,North Carolina A&amp;T,Mid-Eastern (MEAC),10.69,10.45,10.52,10.18,2017
+342,6794653,Brandon Carnes,21208,Northern Iowa,Missouri Valley (MVC),10.42,10.24,10.06,9.97,2017
+346,6927722,Alexandru Terpezan,20666,Boise State,Mountain West (MWC),10.66,10.55,10.68,10.38,2017
+347,6794605,Zach Johnson,20583,Air Force,Mountain West (MWC),10.71,10.61,10.37,10.4,2017
+354,6348400,Jamal Robinson,20841,Eastern Illinois,Ohio Valley (OVC),10.6,10.56,10.6,10.34,2017
+358,7715713,Just'N Thymes,21493,USC,PAC-12,10.49,10.19,10.41,10.08,2017
+361,6932164,Darnell Roberson,21490,UCLA,PAC-12,10.97,10.88,11.02,10.62,2017
+364,6243773,Mitch Modin,21242,Oregon,PAC-12,10.84,10.83,10.83,10.71,2017
+381,6854309,Brad Culp,20619,Arkansas,Southeastern (SEC),11.13,11.21,11.0,11.02,2017
+382,8980867,JaQuarius Wilson,21126,Mississippi State,Southeastern (SEC),11.62,11.3,11.61,11.25,2017
+396,6795551,Bo Arnold,21365,South Dakota State,Summit,11.24,11.17,10.88,10.97,2017
+402,8981689,Terrance Goodwin,20621,Arkansas-Little Rock,Sun Belt,11.38,10.91,11.08,11.18,2017
+404,5209936,Leshon Collins,20955,Houston,American,10.46,10.37,10.35,10.15,2016
+410,6348485,Jonathan Goodwin,21409,Saint Louis U,Atlantic 10,11.54,11.37,11.01,10.98,2016
+411,5209927,Tevin Hester,20751,Clemson,Atlantic Coast (ACC),10.24,10.31,10.03,9.99,2016
+412,5046941,Jonathan Addison,21190,North Carolina State,Atlantic Coast (ACC),10.74,10.66,10.49,10.43,2016
+421,3867891,Zach Ziemek,21576,Wisconsin,Big 10,11.09,10.59,10.74,10.63,2016
+422,5499462,Codie Nolan,21102,Michigan,Big 10,10.93,10.81,10.76,10.65,2016
+426,5210054,Markesh Woodson,21128,Missouri,Big 12,10.12,10.35,10.14,10.05,2016
+432,5077462,Taylor Sanderson,20981,Iowa State,Big 12,11.51,11.48,11.12,11.09,2016
+443,5043736,Andrew Kuras,20945,High Point,Big South,11.19,15.09,11.76,11.03,2016
+452,5267465,Dylan McCloskey,21044,Long Beach State,Big West,10.92,10.84,10.86,11.02,2016
+460,5228986,Oliver Pham,21486,UC Irvine,Big West,11.46,11.54,11.69,11.57,2016
+467,5354387,DaQuan Smalls,20897,George Mason,Colonial (CAA),11.12,11.06,10.85,10.91,2016
+481,5089152,Chris Strup,21054,Loyola-Chicago,Horizon,10.53,10.71,10.47,10.46,2016
+490,4943514,Wayne Blanchard,20844,Eastern Michigan,Mid-American (MAC),11.06,10.99,10.95,10.93,2016
+491,3843076,Alex McCune,20584,Akron,Mid-American (MAC),11.33,11.27,10.89,11.23,2016
+502,3846188,Nic Bowens,21496,Utah State,Mountain West (MWC),10.51,10.52,10.13,10.21,2016
+503,5129993,Josh DeLoach,20768,Colorado State,Mountain West (MWC),11.05,10.53,10.48,10.31,2016
+505,5031925,Ridge Jones,21180,New Mexico,Mountain West (MWC),10.76,10.69,10.64,10.47,2016
+515,5482397,Jerome Henderson,21449,Tennessee State,Ohio Valley (OVC),11.03,10.73,10.81,10.83,2016
+521,5041941,Travis Marshall,21523,Washington,PAC-12,11.04,10.67,11.16,10.65,2016
+524,5041940,Quadelle Satterwhite,21523,Washington,PAC-12,10.68,10.64,10.71,10.74,2016
+538,5704924,Antwan Wright,20871,Florida,Southeastern (SEC),10.48,10.08,10.37,10.5,2016
+544,5041829,Maicel Uibo,20900,Georgia,Southeastern (SEC),11.17,11.05,11.1,11.09,2016
+555,5062521,LeAndre Kennedy,21365,South Dakota State,Summit,10.87,11.03,11.13,10.67,2016
+566,3844949,Thomas Maney,21409,Saint Louis U,Atlantic 10,12.02,11.75,11.77,11.8,2015
+588,3854264,Bryan Cuellar,21314,Sacramento State,Big Sky,11.27,10.8,10.93,10.8,2015
+594,2873994,Carl Horsley,20792,CS Northridge,Big West,10.55,10.62,10.22,10.03,2015
+595,3863843,Cameron Glasgow,21044,Long Beach State,Big West,10.76,10.82,10.55,10.5,2015
+614,4940131,Logan Rusch,21497,Utah Valley University,Great West,11.08,11.02,11.14,11.14,2016
+636,3843028,Justin Green,20768,Colorado State,Mountain West (MWC),11.68,11.43,11.51,11.37,2015
+652,3949981,Jemal Williams,21493,USC,PAC-12,11.8,11.72,11.33,11.32,2015
+653,3552363,Marcus Nilsson,21490,UCLA,PAC-12,11.35,11.12,11.22,11.39,2015
+656,3844878,Aaron Ernest,21056,LSU,Southeastern (SEC),10.15,10.08,10.13,10.09,2015
+657,3874608,Dedric Dukes,20871,Florida,Southeastern (SEC),10.41,10.43,10.24,10.17,2015
+660,3844473,Chris Walker,21361,South Carolina,Southeastern (SEC),10.7,10.97,10.94,10.56,2015
+662,3844774,Garrett Scantling,20900,Georgia,Southeastern (SEC),11.34,11.06,10.89,10.98,2015
+667,3835647,Nathanael Franks,20619,Arkansas,Southeastern (SEC),11.31,11.21,11.41,11.33,2015
+668,3845788,Quentin Butler,21462,Texas-Arlington,Southland (SLC),10.63,10.33,10.32,9.96,2015
+670,3847503,Ahmad Evans,21374,Southern Illinois-Edwardsville,Summit,11.24,10.41,11.19,10.38,2015
+674,2875234,Stephen Wilson,21381,Southern Utah,Summit,11.42,11.4,11.39,11.2,2015
+678,4058516,Mark Roetcisoender,21265,Portland,West Coast (WCC),10.98,12.59,11.04,11.14,2015
+681,2863977,Darrell Wesh,21510,Virginia Tech,Atlantic Coast (ACC),10.51,10.15,10.15,10.21,2014
+687,2830825,Tucker Peabody,21040,Lipscomb,Atlantic Sun,10.59,10.64,10.63,10.51,2014
+692,2783994,Prezel Hardy,21453,Texas A&amp;M,Big 12,10.13,10.11,10.11,10.27,2014
+694,2783993,Michael Bryan,21453,Texas A&amp;M,Big 12,10.53,10.29,10.3,10.43,2014
+696,2783984,Jermaine Davis,21453,Texas A&amp;M,Big 12,10.93,11.03,10.49,10.95,2014
+699,2864962,Evan Meehan,21314,Sacramento State,Big Sky,10.83,10.82,10.77,10.64,2014
+700,1698722,Jeff Mohl,21142,Montana State,Big Sky,11.36,10.96,10.99,10.86,2014
+704,3065149,Jamison Jordan,20694,Cal Poly SLO,Big West,10.53,10.55,10.63,10.41,2014
+706,2033376,Kaio Sena,21485,UC Davis,Big West,11.14,11.18,10.94,10.66,2014
+707,2911167,Evan Walker,21489,UC Santa Barbara,Big West,10.87,10.77,10.72,10.75,2014
+709,3001830,Mike Kennedy,21486,UC Irvine,Big West,11.12,10.63,10.82,10.88,2014
+711,2911169,Jacob Vowels,21489,UC Santa Barbara,Big West,10.81,10.96,10.86,10.92,2014
+724,2839254,Charles Anthony,20819,Detroit Mercy,Horizon,11.26,11.16,11.07,10.7,2014
+726,2881565,Justus Mora,20788,CS Bakersfield,Independent,10.88,10.98,10.96,11.08,2014
+727,1781268,Nathaniel Scales,21003,Kent State,Mid-American (MAC),10.68,10.51,11.12,10.57,2014
+732,2779530,Austin Bahner,21560,Wichita State,Missouri Valley (MVC),10.91,10.64,10.75,10.76,2014
+733,670122,Daniel Gooris,21208,Northern Iowa,Missouri Valley (MVC),11.66,11.53,11.31,11.7,2014
+738,1671347,Richard York,21180,New Mexico,Mountain West (MWC),10.85,10.85,10.99,10.92,2014
+741,2779277,Kaleel Johnson,20841,Eastern Illinois,Ohio Valley (OVC),10.88,10.6,10.74,10.63,2014
+743,1787200,Ryan Milus,20618,Arizona State,PAC-12,10.23,10.25,10.14,10.35,2014
+744,2077612,Terrence Abram,21493,USC,PAC-12,10.78,10.67,10.81,10.6,2014
+748,2891540,Dior Mathis,21242,Oregon,PAC-12,10.8,10.49,10.7,10.87,2014
+752,2766342,Kamal Riley,20683,Bucknell,Patriot,11.12,10.77,11.16,10.95,2014
+753,2768745,Brett Bogaard,21167,Navy,Patriot,10.7,10.99,11.02,10.98,2014
+757,2844319,Chris Royster,21361,South Carolina,Southeastern (SEC),10.42,10.34,10.29,10.28,2014
+758,1672822,Michael Granger,21124,Mississippi,Southeastern (SEC),10.29,10.16,10.37,10.51,2014
+759,2844707,Reginald Juin,21448,Tennessee,Southeastern (SEC),10.86,10.72,10.79,10.84,2014
+763,2826078,Kevin Lazas,20619,Arkansas,Southeastern (SEC),10.93,10.98,10.83,11.07,2014
+768,2847040,Preston Myers,21381,Southern Utah,Summit,10.8,10.63,10.61,10.8,2014
+770,2863607,Nathan Mattson,21198,North Dakota State,Summit,11.08,10.97,10.98,11.12,2014
+775,3846188,Nic Bowens,21496,Utah State,Western (WAC),10.51,10.52,10.13,10.21,2016
+776,5031993,Jacob Bautista,21496,Utah State,Western (WAC),10.93,10.53,11.19,10.64,2014
+777,1673428,David Gibson,21596,Xavier (OH),Atlantic 10,11.62,11.54,11.59,11.15,2013
+778,1672004,William Whitehead,21409,Saint Louis U,Atlantic 10,11.37,11.4,11.05,11.22,2013
+783,1748508,Warren Fraser,20751,Clemson,Atlantic Coast (ACC),10.48,10.28,10.18,10.34,2013
+784,1841127,David Ambler,20876,Florida State,Atlantic Coast (ACC),10.37,10.41,10.37,10.63,2013
+785,7715687,Curtis Beach,20831,Duke,Atlantic Coast (ACC),10.98,10.78,10.9,10.66,2013
+788,1670987,Perron Jones,20903,Georgia Tech,Atlantic Coast (ACC),10.75,10.71,10.55,10.99,2013
+792,1698945,Jack Szmanda,21117,Minnesota,Big 10,11.25,11.48,11.24,11.31,2013
+793,3857469,Ameer Webb,21453,Texas A&amp;M,Big 12,10.26,10.37,10.17,10.07,2013
+798,1841116,Tomas Kirielius,20998,Kansas State,Big 12,11.5,11.58,11.14,11.15,2013
+799,3814620,Ethan Wilkins,20981,Iowa State,Big 12,11.23,11.27,11.14,11.26,2013
+801,1809799,Miles DiSebella,21204,Northern Arizona,Big Sky,10.72,10.77,10.68,10.55,2013
+804,663431,Chris Struckman,21533,Weber State,Big Sky,10.8,10.65,10.9,10.82,2013
+806,1698259,Garrett Wood,20965,Idaho State,Big Sky,11.37,11.39,11.57,11.44,2013
+807,1668024,Roderick Spruel,21033,Liberty,Big South,10.71,10.82,10.82,10.66,2013
+819,5209936,Leshon Collins,20955,Houston,C-USA,10.46,10.37,10.35,10.15,2016
+820,1765955,Jeremy Johnson,21195,North Carolina-Wilmington,Colonial (CAA),10.58,10.88,10.57,10.62,2013
+821,1748919,Travaughn Baker-Johnson,20897,George Mason,Colonial (CAA),10.86,10.84,10.7,11.04,2013
+824,1755170,Stephen Wickhamshire,21497,Utah Valley University,Great West,11.55,11.55,12.06,11.9,2013
+825,1750326,Connor Reily,20807,Dartmouth,Heps,10.74,10.82,10.67,10.59,2013
+826,1675328,Jedidiah Adarquah-Yiadon,20784,Cornell,Heps,10.89,10.65,10.75,10.83,2013
+828,1692663,Michael Davis,21602,Youngstown State,Horizon,10.82,10.6,10.87,10.63,2013
+829,1692666,Tarelle Irwin,21602,Youngstown State,Horizon,10.83,10.8,10.9,10.92,2013
+831,1674067,Darrius Baker,21339,Savannah State,Independent,10.63,10.77,10.68,10.82,2013
+833,1751881,Jairus Saunders,20844,Eastern Michigan,Mid-American (MAC),10.71,10.71,12.82,10.7,2013
+836,1752862,Phillip Barren,21189,North Carolina Central,Mid-Eastern (MEAC),10.78,11.21,10.81,10.91,2013
+838,2061598,Justin Baxtron,20974,Indiana State,Missouri Valley (MVC),10.88,10.75,10.49,10.75,2013
+840,1945296,Cameron Parker,20887,Fresno State,Mountain West (MWC),10.55,10.32,10.69,10.6,2013
+841,1770677,Derek Montoya,21180,New Mexico,Mountain West (MWC),11.13,10.85,10.97,10.65,2013
+843,669790,Thomas Trujillo,21180,New Mexico,Mountain West (MWC),10.66,10.97,10.77,10.78,2013
+844,5129989,A.J. Whitaker,20768,Colorado State,Mountain West (MWC),10.76,10.66,10.82,10.89,2013
+846,1771910,Michael Tibbs,20583,Air Force,Mountain West (MWC),11.49,11.32,11.2,11.4,2013
+848,1676517,Josh McMillin,20768,Colorado State,Mountain West (MWC),11.4,11.31,11.48,11.56,2013
+849,1662444,Raldaine McDonald,20864,Fairleigh Dickinson-Metro,Northeast (NEC),11.24,10.99,11.24,11.61,2013
+852,2117546,Morgan Sorrell,21148,Morehead State,Ohio Valley (OVC),12.84,12.52,12.38,12.19,2013
+853,1787200,Ryan Milus,20618,Arizona State,PAC-10,10.23,10.25,10.14,10.35,2014
+854,1767076,James Alaka,21523,Washington,PAC-10,10.22,10.29,10.22,10.52,2013
+855,1771224,Greg Hornsby,21526,Washington State,PAC-10,10.5,10.52,10.61,10.63,2013
+856,5041940,Quadelle Satterwhite,21523,Washington,PAC-10,10.68,10.64,10.71,10.74,2016
+857,2891540,Dior Mathis,21242,Oregon,PAC-10,10.8,10.49,10.7,10.87,2014
+858,1771220,Brett Blanshan,21526,Washington State,PAC-10,10.5,10.45,10.71,10.76,2013
+859,603650,Jeremy Taiwo,21523,Washington,PAC-10,11.19,11.02,10.98,10.84,2013
+860,5041941,Travis Marshall,21523,Washington,PAC-10,11.04,10.67,11.16,10.65,2016
+861,3552363,Marcus Nilsson,21490,UCLA,PAC-10,11.35,11.12,11.22,11.39,2015
+862,3949981,Jemal Williams,21493,USC,PAC-10,11.8,11.72,11.33,11.32,2015
+875,1673169,Justin Thomas,20615,Appalachian State,Southern (SoCon),10.66,10.66,11.0,10.74,2013
+877,662817,Matt Johnson,21321,Sam Houston State,Southland (SLC),11.04,10.87,10.58,10.7,2013
+886,624662,Nick Williams,21596,Xavier (OH),Atlantic 10,11.13,10.69,10.7,10.68,2012
+887,603865,Sam Jordan,21192,North Carolina-Charlotte,Atlantic 10,10.53,10.38,10.38,10.8,2012
+889,624653,Kurtis Polacek,21596,Xavier (OH),Atlantic 10,11.32,11.0,11.33,11.24,2012
+890,679390,Brian Armstrong,21596,Xavier (OH),Atlantic 10,11.25,11.2,11.35,11.43,2012
+891,951904,Joseph Sliwoski,21288,Rhode Island,Atlantic 10,12.19,11.81,11.83,11.52,2012
+892,930912,Frank Massaro,20878,Fordham,Atlantic 10,11.48,11.51,11.39,11.57,2012
+895,675773,Maurice Mitchell,20876,Florida State,Atlantic Coast (ACC),10.45,10.04,10.0,10.03,2012
+898,653438,Keith Ricks,21510,Virginia Tech,Atlantic Coast (ACC),10.44,10.38,10.33,10.21,2012
+899,637537,Justin Murdock,20751,Clemson,Atlantic Coast (ACC),10.3,10.4,10.13,10.31,2012
+902,653328,Floyd Hawkes,21078,Maryland,Atlantic Coast (ACC),11.07,10.71,10.88,10.8,2012
+904,653449,Alex Hill,21517,Wake Forest,Atlantic Coast (ACC),11.19,11.1,11.51,11.19,2012
+906,637684,Jemir Martinez,21002,Kennesaw State,Atlantic Sun,10.66,11.09,10.55,11.11,2012
+907,869678,Sean King,21117,Minnesota,Big 10,10.63,10.57,10.43,10.54,2012
+910,676452,Ian Jansen,21576,Wisconsin,Big 10,11.54,11.67,11.44,11.61,2012
+914,636476,Evan Pierson,21232,Oklahoma,Big 12,10.93,10.57,10.62,10.44,2012
+915,677903,Trevante Rhodes,21452,Texas,Big 12,10.37,10.4,10.37,10.56,2012
+919,654230,Eddie Taylor,20765,Colorado,Big 12,11.41,11.21,11.23,11.33,2012
+920,624404,Antony Hobwana,21261,Pittsburgh,Big East,10.73,10.51,10.78,10.48,2012
+921,653605,Kevin Steinberg,20780,Connecticut,Big East,10.92,10.62,10.92,10.82,2012
+928,675730,Jevon Young,20731,Charleston Southern,Big South,10.72,10.17,10.2,10.38,2012
+935,802259,DeAndra'e Woods,20790,CS Fullerton,Big West,10.95,10.81,10.8,10.87,2012
+937,719228,Kevin Fashola,21487,UC Riverside,Big West,11.03,10.98,11.11,10.95,2012
+939,901039,Antoine Miller,20694,Cal Poly SLO,Big West,15.85,10.61,10.64,11.04,2012
+940,948665,Josh Codding,21489,UC Santa Barbara,Big West,11.65,11.28,11.3,11.48,2012
+941,843303,Garrett Myer,21481,Tulane,C-USA,11.85,11.33,11.06,11.73,2012
+942,675789,Rachaunn Ruffin,20897,George Mason,Colonial (CAA),10.34,10.42,10.59,10.36,2012
+946,716253,Martin Craig,21179,New Jersey Tech,Great West,12.43,12.31,12.52,12.79,2012
+949,607897,Chase Aaronson,20784,Cornell,Heps,11.34,10.66,10.73,10.82,2012
+952,626587,Vushaun Landrum,20819,Detroit Mercy,Horizon,10.7,10.71,10.93,11.02,2012
+954,606540,Eric Plump,21339,Savannah State,Independent,10.83,10.52,10.66,10.58,2012
+957,632399,Jonathan Ocasio,21416,St Peter's,Metro Atlantic (MAAC),10.89,11.0,10.79,10.87,2012
+958,624327,Princeton Bryson,21003,Kent State,Mid-American (MAC),10.67,10.45,10.5,10.49,2012
+962,603890,Marcus Stephens,21362,South Carolina State,Mid-Eastern (MEAC),10.85,10.56,10.53,10.5,2012
+963,881424,Quinten Walker,21186,Norfolk State,Mid-Eastern (MEAC),10.86,10.61,11.1,11.14,2012
+964,679944,Jarred Herring,21208,Northern Iowa,Missouri Valley (MVC),10.66,11.22,10.42,10.44,2012
+968,1692989,Charles Silmon,21457,Texas Christian,Mountain West (MWC),10.24,10.19,10.04,9.89,2013
+969,675496,Mark Barnes,21457,Texas Christian,Mountain West (MWC),10.38,10.41,10.41,10.48,2012
+970,675500,OJ Stoneham,21457,Texas Christian,Mountain West (MWC),10.73,10.61,10.6,10.74,2012
+973,677392,Travis Gunderson,21595,Wyoming,Mountain West (MWC),10.84,10.92,10.66,11.02,2012
+977,627547,Geof Navarro,21140,Monmouth (NJ),Northeast (NEC),10.77,10.73,10.75,11.01,2012
+979,683231,Zye Boey,20841,Eastern Illinois,Ohio Valley (OVC),10.2,10.49,10.15,10.15,2012
+981,665903,Gerry Cooper,20842,Eastern Kentucky,Ohio Valley (OVC),10.78,10.97,11.36,11.26,2012
+986,271179,Ryan Hamilton,21523,Washington,PAC-10,10.83,10.59,10.68,10.51,2012
+987,708625,Jamal Alston,21490,UCLA,PAC-10,10.47,10.56,10.64,10.57,2012
+990,2077612,Terrence Abram,21493,USC,PAC-10,10.78,10.67,10.81,10.6,2014
+992,667666,Trent Perez,21490,UCLA,PAC-10,11.36,11.37,11.24,11.39,2012
+993,656170,Jamie Sandys,20618,Arizona State,PAC-10,11.56,11.56,11.42,11.43,2012
+997,605507,Thomas McGarrigle,20683,Bucknell,Patriot,11.11,10.96,11.06,11.16,2012
+998,605450,Greg Barbier,20683,Bucknell,Patriot,11.33,12.06,11.59,11.26,2012
+999,904564,Jeff Demps,20871,Florida,Southeastern (SEC),10.3,9.96,9.96,10.01,2012
+1004,9119040,D'Angelo Cherry,21126,Mississippi State,Southeastern (SEC),10.04,10.49,10.23,10.45,2012
+1007,820123,Tevarus Christian,21126,Mississippi State,Southeastern (SEC),10.9,10.79,10.66,10.87,2012
+1011,603763,Dennis Moore,20615,Appalachian State,Southern (SoCon),10.69,10.6,10.34,10.48,2012
+1013,662801,Henry Jordan III,21321,Sam Houston State,Southland (SLC),10.93,11.2,10.57,10.54,2012
+1015,663016,Brandon Thomas,21460,Texas State,Southland (SLC),10.65,10.93,10.64,10.86,2012
+1016,604099,Jeremy Stuckey,20715,Central Arkansas,Southland (SLC),11.12,11.18,10.86,11.15,2012
+1017,741920,Steven Baltazar,20917,Grambling State,Southwestern (SWAC),11.23,11.42,10.62,10.77,2012
+1018,653840,Sean Delisser,20586,Alabama A&amp;M,Southwestern (SWAC),11.02,10.57,10.86,11.15,2012
+1019,832621,Darrius McDaniels,20586,Alabama A&amp;M,Southwestern (SWAC),11.25,11.53,11.3,11.22,2012
+1022,667755,Weston Leutz,21198,North Dakota State,Summit,10.9,10.93,10.95,11.18,2012
+1025,741935,Luther Ambrose,21050,Louisiana-Monroe,Sun Belt,10.34,10.12,10.31,10.44,2012
+1026,604058,Demond Burns,20621,Arkansas-Little Rock,Sun Belt,10.65,10.44,10.46,10.5,2012
+1029,1945296,Cameron Parker,20887,Fresno State,Western (WAC),10.55,10.32,10.69,10.6,2013
+1030,606088,Eric Capelle,20666,Boise State,Western (WAC),10.6,10.78,11.06,10.85,2012
+1033,271757,Reggie Hill,21192,North Carolina-Charlotte,Atlantic 10,10.5,11.01,10.86,11.01,2011
+1049,271854,Joseph DiDia,20903,Georgia Tech,Atlantic Coast (ACC),11.31,10.97,11.0,11.2,2011
+1053,637668,Antonio Logan,21002,Kennesaw State,Atlantic Sun,10.88,10.85,10.86,10.63,2011
+1054,640674,Devin Pipkin,20972,Indiana (IN),Big 10,10.64,10.56,10.59,10.24,2011
+1056,640846,Zeke Sayon,20979,Iowa,Big 10,11.05,10.7,10.51,10.62,2011
+1057,644672,Joey Schwecke,21117,Minnesota,Big 10,11.36,11.16,10.96,11.01,2011
+1063,1695469,Amara Sama,20981,Iowa State,Big 12,11.34,11.11,10.75,10.55,2011
+1065,5129989,A.J. Whitaker,20765,Colorado,Big 12,10.76,10.66,10.82,10.89,2013
+1067,275953,Moritz Cleve,20998,Kansas State,Big 12,11.27,10.75,11.16,10.94,2011
+1068,645463,Lars Rise,21128,Missouri,Big 12,11.47,11.06,11.19,11.16,2011
+1078,718061,Ryan Edlich,20755,Coastal Carolina,Big South,11.03,10.73,10.64,10.76,2011
+1080,603823,Justin Conaway,20945,High Point,Big South,10.81,10.65,10.75,10.92,2011
+1081,625108,Geren Woodbridge,21033,Liberty,Big South,11.56,11.33,11.32,11.11,2011
+1085,834808,Jarred Houston,20694,Cal Poly SLO,Big West,10.8,10.59,10.67,10.78,2011
+1089,819592,Jestin Blackmon,20790,CS Fullerton,Big West,10.98,11.14,10.98,11.0,2011
+1094,678317,Tyrone Carrier,20955,Houston,C-USA,10.69,10.4,10.67,10.96,2011
+1104,673583,Marc Howland,20680,Brown,Heps,11.14,10.82,10.96,10.87,2011
+1108,626563,Earnest Cleary,20819,Detroit Mercy,Horizon,11.18,10.69,10.71,11.08,2011
+1109,676411,Cory Renner,20970,Illinois-Chicago,Horizon,11.6,11.18,11.04,11.26,2011
+1111,662478,ryan Ruppel,21498,Valparaiso,Horizon,11.61,12.01,11.69,11.77,2011
+1113,656218,Ryan Nichols,20788,CS Bakersfield,Independent,11.09,10.81,10.82,10.76,2011
+1119,636279,Brian Smith,20685,Buffalo,Mid-American (MAC),10.75,10.75,10.6,10.64,2011
+1126,676322,Jordan Zerr,21560,Wichita State,Missouri Valley (MVC),11.6,11.61,11.3,11.02,2011
+1135,654289,Josh Murphy,20768,Colorado State,Mountain West (MWC),11.05,10.96,11.02,10.87,2011
+1140,672519,Charles Gladman,21302,Robert Morris (PA),Northeast (NEC),11.09,11.04,10.8,11.17,2011
+1147,677625,Marlon Murray,21526,Washington State,PAC-10,10.67,10.45,10.47,10.44,2011
+1154,689176,Nick Porter,21484,UC Berkeley,PAC-10,10.84,10.5,10.68,10.81,2011
+1159,271170,Andrew Ferleman,21523,Washington,PAC-10,11.65,11.53,11.64,11.45,2011
+1165,656563,Gabriel Mvumuvre,21056,LSU,Southeastern (SEC),10.71,10.42,10.62,10.1,2011
+1166,665941,Terrell Wilks,20871,Florida,Southeastern (SEC),10.26,10.15,10.27,10.11,2011
+1170,663234,Antonio Sales,21361,South Carolina,Southeastern (SEC),10.8,10.42,10.35,10.43,2011
+1171,1143846,Chris Rainey,20871,Florida,Southeastern (SEC),10.74,11.3,10.76,10.6,2011
+1179,662900,Ty Thomas,21425,Stephen F. Austin,Southland (SLC),10.76,10.69,10.8,10.62,2011
+1182,662896,Sherman Rosborough,21425,Stephen F. Austin,Southland (SLC),11.01,10.81,10.87,10.92,2011
+1193,1783368,Armahd Lewis,21496,Utah State,Western (WAC),10.77,10.59,10.51,10.41,2011
+1222,675181,Courtney Thomas,20641,Baylor,Big 12,10.45,10.58,10.43,10.39,2010
+1242,1405560,Bradley Ike,20792,CS Northridge,Big West,10.81,10.66,10.35,10.42,2010
+1248,805492,Joe Pearson,21486,UC Irvine,Big West,10.98,10.91,10.82,11.02,2010
+1278,676304,Denny Nedd,21560,Wichita State,Missouri Valley (MVC),11.01,11.18,11.02,10.85,2010
+1280,676327,Justin Taylor,21560,Wichita State,Missouri Valley (MVC),11.41,11.16,11.19,11.14,2010
+1292,675477,Adam Benz,21457,Texas Christian,Mountain West (MWC),10.88,10.78,10.9,11.16,2010
+1305,692612,Brandon Smith,21490,UCLA,PAC-10,11.06,10.65,10.69,10.52,2010
+1307,676087,Daniel Belch,21424,Stanford,PAC-10,11.11,10.8,10.56,10.59,2010
+1310,692638,Stan Griffin,21490,UCLA,PAC-10,10.81,10.74,10.75,10.71,2010
+1340,322468,Keyon Mitchell,21053,Loyola Marymount,West Coast (WCC),11.87,11.58,11.53,11.54,2010
+1341,728818,Arturo Bimrose,21265,Portland,West Coast (WCC),12.29,12.23,11.77,11.59,2010
+1344,662682,Mike Coleman,21048,Louisiana Tech,Western (WAC),10.74,10.26,10.41,10.63,2010
+1346,820927,Charles Williams,20887,Fresno State,Western (WAC),11.13,11.35,11.0,10.97,2010
+1354,707022,Michael Garvin,20876,Florida State,Atlantic Coast (ACC),10.64,10.1,10.34,10.19,2009
+1383,805654,Jason Newland,21489,UC Santa Barbara,Big West,11.64,11.14,11.03,10.69,2009
+1386,805508,Mark Ilarina,21486,UC Irvine,Big West,11.06,10.99,11.0,10.99,2009
+1389,805535,Antoine Murray,21487,UC Riverside,Big West,11.23,11.0,11.06,11.42,2009
+1412,872392,Justyn Warner,21457,Texas Christian,Mountain West (MWC),10.43,10.29,10.31,10.27,2009
+1419,677334,Skylar Morgan,20583,Air Force,Mountain West (MWC),11.89,11.73,11.39,11.35,2009
+1424,677615,Justin Woods,21526,Washington State,PAC-10,11.2,10.47,10.62,10.28,2009
+1429,667561,Xiong Xuehan,20617,Arizona,PAC-10,11.04,10.83,10.72,10.61,2009
+1463,1487071,Walter Dix,20876,Florida State,Atlantic Coast (ACC),10.21,10.18,9.93,10.22,2008
+1472,1487222,Donovan Kilmartin,21452,Texas,Big 12,11.05,11.39,11.5,11.29,2008
+1477,1253997,Brandon Hoskins,21033,Liberty,Big South,11.06,11.4,11.05,11.3,2008
+1497,1469778,Travis Picou,20583,Air Force,Mountain West (MWC),10.53,10.64,10.58,10.65,2008
+1511,271676,Rubin Williams,21448,Tennessee,Southeastern (SEC),10.37,10.43,10.26,9.96,2008
+1518,805570,Connor McCabe,21488,UC San Diego,West Coast (WCC),11.29,11.25,11.19,10.98,2009
