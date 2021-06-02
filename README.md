@@ -4,7 +4,9 @@
 * results files: Have athletes with season PR's from all 4 years
 
 ## Code
-* scrape_athlete_list - Code to generate list of potential athletes
-* Project_Luther_athletes - Code to get season PR's of athletes
-* Remove Duplicates - remove duplicates from results
-* Linear regression - basic linear regression on all data sets, higher dimensional and certain year elimination for womens 100
+* ScrapeLists - Code to generate list of potential athletes
+* CollectAthleteData - Code to get season PR's of athletes
+* RemoveDuplicates - remove duplicates from results
+* LinearRegression - basic linear regression on all data sets, higher dimensional and certain year elimination for womens 100
+* FullDataRegressions - linear, ridge and lasso with all features
+* DataExploration - plot histograms of data
