@@ -10,3 +10,6 @@
 * LinearRegression - basic linear regression on all data sets, higher dimensional and certain year elimination for womens 100
 * FullDataRegressions - linear, ridge and lasso with all features
 * DataExploration - plot histograms of data
+
+## Results
+* PDF with results of all experiments in the paper
